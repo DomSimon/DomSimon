@@ -1,6 +1,5 @@
 Hi, I’m @DomSimon from Berlin, Germany.  
 I’m interested in developing Backends in Spring Boot with Java/Kotlin.  
-If you are searching for a Berlin based Backend Developer, please feel free to Contact me.
 
 - 📫 You can reach me over  
 Mail: info@itsdom.de  
